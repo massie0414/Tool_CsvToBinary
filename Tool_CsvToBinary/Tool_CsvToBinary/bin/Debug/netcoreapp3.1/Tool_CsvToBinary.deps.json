@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tool_CsvToBinary/1.0.0": {
+        "runtime": {
+          "Tool_CsvToBinary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tool_CsvToBinary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

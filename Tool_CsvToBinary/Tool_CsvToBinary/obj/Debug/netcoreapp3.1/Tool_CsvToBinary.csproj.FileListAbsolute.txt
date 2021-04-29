@@ -1,0 +1,13 @@
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\bin\Debug\netcoreapp3.1\Tool_CsvToBinary.exe
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\bin\Debug\netcoreapp3.1\Tool_CsvToBinary.deps.json
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\bin\Debug\netcoreapp3.1\Tool_CsvToBinary.runtimeconfig.json
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\bin\Debug\netcoreapp3.1\Tool_CsvToBinary.runtimeconfig.dev.json
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\bin\Debug\netcoreapp3.1\Tool_CsvToBinary.dll
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\bin\Debug\netcoreapp3.1\Tool_CsvToBinary.pdb
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\obj\Debug\netcoreapp3.1\Tool_CsvToBinary.csprojAssemblyReference.cache
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\obj\Debug\netcoreapp3.1\Tool_CsvToBinary.AssemblyInfoInputs.cache
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\obj\Debug\netcoreapp3.1\Tool_CsvToBinary.AssemblyInfo.cs
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\obj\Debug\netcoreapp3.1\Tool_CsvToBinary.csproj.CoreCompileInputs.cache
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\obj\Debug\netcoreapp3.1\Tool_CsvToBinary.dll
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\obj\Debug\netcoreapp3.1\Tool_CsvToBinary.pdb
+D:\apps_tool\Tool_CsvToBinary\Tool_CsvToBinary\Tool_CsvToBinary\obj\Debug\netcoreapp3.1\Tool_CsvToBinary.genruntimeconfig.cache
